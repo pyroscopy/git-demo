@@ -1,1 +1,1 @@
-version 1.2 from B
+version 1.1 from config-A
